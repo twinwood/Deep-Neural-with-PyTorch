@@ -1,0 +1,5 @@
+ 8.1 Deep Neural Networks
+ 8.2 Dropout 
+ 8.3 Neural Network initialization weights 
+ 8.4 Gradient Descent with Momentum
+ 8.5 Batch Batch Normalization
